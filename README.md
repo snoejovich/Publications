@@ -9,4 +9,4 @@
 
 1. Werner, N. E., Ponnala, S., Doutcheva, N., & Holden, R. J. (2021). Human factors/ergonomics work system analysis of patient work: state of the science and future directions. International Journal for Quality in Health Care, 33(Supplement_1), 60-71. Retrieved May 15, 2022, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7802067/
 
-2. Alsaid, Areen. "Estimating Driver State in Increasingly Automated Vehicles." Order No. 28092650 The University of Wisconsin - Madison, 2020. Ann Arbor: ProQuest. Web. 15 May 2022. Retrieved May 15, 2022, from file:///C:/Users/snoejovich/Downloads/Estimating_Driver_State_in_Inc.pdf
+2. Alsaid, Areen. "Estimating Driver State in Increasingly Automated Vehicles." Order No. 28092650 The University of Wisconsin - Madison, 2020. Ann Arbor: ProQuest. Web. 15 May 2022. Retrieved May 15, 2022, from https://www.proquest.com/docview/2445298752?pq-origsite=gscholar&fromopenview=true

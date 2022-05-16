@@ -13,8 +13,8 @@
 
 # Personal Publications
 
-1. Noejovich, S. (2022, April 19). Reflections on data science collaboration from an early-in-career data scientist. Medium. Retrieved May 15, 2022, from https://medium.com/data-science-at-microsoft/reflections-on-data-science-collaboration-from-an-early-in-career-data-scientist-cb162df9fca0 
-2. Noejovich, S. (2020, July 9). Supporting patients with complex health needs using Human Factors Engineering. Medium. Retrieved May 15, 2022, from https://read.wisconsinengineer.com/supporting-patients-with-complex-health-needs-using-human-factors-engineering-29ac930dc9d9 
-3. Noejovich, S. (2019, May 27). Crystals of kaydor: Using videogames to develop empathy in adolescents. Medium. Retrieved May 15, 2022, from https://read.wisconsinengineer.com/crystals-of-kaydor-using-videogames-to-develop-empathy-in-adolescents-cf617c39e481
-4. Noejovich, S. (2019, March 11). Society of Hispanic Professional Engineers: Building a community of Hispanic leaders on and off... Medium. Retrieved May 15, 2022, from https://read.wisconsinengineer.com/society-of-hispanic-professional-engineers-building-a-community-of-hispanic-leaders-on-and-off-6a38d4404e85 
-5. Noejovich, S. (2018, December 13). One man's phosphorus is another man's treasure. Medium. Retrieved May 15, 2022, from https://read.wisconsinengineer.com/one-mans-phosphorus-is-another-man-s-treasure-41dcbe0ce809 
+1. [Noejovich, S. (2022, April 19). Reflections on data science collaboration from an early-in-career data scientist. Medium.](https://medium.com/data-science-at-microsoft/reflections-on-data-science-collaboration-from-an-early-in-career-data-scientist-cb162df9fca0)
+2. [Noejovich, S. (2020, July 9). Supporting patients with complex health needs using Human Factors Engineering. Medium.](https://read.wisconsinengineer.com/supporting-patients-with-complex-health-needs-using-human-factors-engineering-29ac930dc9d9)
+3. [Noejovich, S. (2019, May 27). Crystals of kaydor: Using videogames to develop empathy in adolescents. Medium.](https://read.wisconsinengineer.com/crystals-of-kaydor-using-videogames-to-develop-empathy-in-adolescents-cf617c39e481)
+4. [Noejovich, S. (2019, March 11). Society of Hispanic Professional Engineers: Building a community of Hispanic leaders on and off... Medium.](https://read.wisconsinengineer.com/society-of-hispanic-professional-engineers-building-a-community-of-hispanic-leaders-on-and-off-6a38d4404e85)
+5. [Noejovich, S. (2018, December 13). One man's phosphorus is another man's treasure. Medium.](https://read.wisconsinengineer.com/one-mans-phosphorus-is-another-man-s-treasure-41dcbe0ce809)
